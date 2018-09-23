@@ -1,6 +1,6 @@
 baseURL = "http://www.joerismits.com/"
 languageCode = "en-us"
-title = "Joeri Smits"
+title = "Test-website"
 theme = "hugo-resume"
 
 # Ignore certain files as recommended
@@ -9,7 +9,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     firstName = "Joeri"
     lastName = "Smits"
-    address = "Rollinsford, NH"
+    address = "Rollinsford, CT"
     phone = "1-555-555-1234"
     contactNote = "Dev Tools Engineer"
     profileImage = "img/TechChat.png"
